@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Brifge
+  - Bridge
+  - Door
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 1192641345
+    locked: 0
+  - name: water
+    uniqueID: 2388902495
+    locked: 0
+  - name: platforms
+    uniqueID: 424691965
+    locked: 0
+  - name: hidden_bridge
+    uniqueID: 3166781993
+    locked: 0
+  - name: door
+    uniqueID: 1380505195
+    locked: 0
+  - name: coin
+    uniqueID: 2945597679
+    locked: 0
+  - name: player
+    uniqueID: 3292370265
+    locked: 0
+  - name: canvas
+    uniqueID: 1984447107
+    locked: 0
+  m_RenderingLayers:
+  - Default
